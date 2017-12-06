@@ -1,0 +1,3 @@
+Identify and document no fewer than 10 individual and specific uses. Make a list in your planning.md document.
+Much like the table you created in your first CSS code review's README, specifically detail how and why you will be use each technology in this list.
+In order to execute this project well, we expect you'll need to continue researching SASS. This is intentional. Spend as much of the day as you need reading documentation and tutorials, finding code snippets, and making your tools work in example projects before building the actual site. Much like in your internship and future job, doing your own research up front will make the application of your own solutions much smoother. Take the time to practice this now!
