@@ -6,6 +6,9 @@
 }
 /* End for testing */
 
+body {
+
+}
 .columns {
   min-height: 100px;
 }
@@ -23,8 +26,8 @@
   margin: 1px 15px;
 }
 .container-1 {
-  padding: 0 5%;
-  height: 50vh;
+  padding: 75px 5%;
+  /*height: 50vh;*/
 }
 
 .container-1-heading {
@@ -32,10 +35,15 @@
   height: 20vw;
 }
 
+.card-field {
+  display: block;
+  padding: 0 5%;
+}
+
 .container-1-card {
-  margin: 5% 20%;
+  margin: 5%;
   height: 10vh;
-  width: 50%;
+  width: 90%;
 }
 
 .container-2 {
@@ -52,4 +60,14 @@
   width: 100%;
   height: 10vh;
   margin-top: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .card-field {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .container-2 {
+    margin-top: 1%;
+  }
 }
