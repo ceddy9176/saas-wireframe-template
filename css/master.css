@@ -4,6 +4,7 @@
   box-sizing:border-box;
   border:1px dashed #000;
 }
+/* End for testing */
 
 .columns {
   min-height: 100px;
@@ -18,6 +19,37 @@
   width: 100%;
   height: 50vh;
 }
+.container-1, .container-2 {
+  margin: 1px 15px;
+}
+.container-1 {
+  padding: 0 5%;
+  height: 50vh;
+}
 
+.container-1-heading {
+  width: 100%;
+  height: 20vw;
+}
 
-/* End for testing */
+.container-1-card {
+  margin: 5% 20%;
+  height: 10vh;
+  width: 50%;
+}
+
+.container-2 {
+  padding: 5%;
+  height: 40vh;
+}
+
+.container-2 .inner {
+  height: 90%;
+  width: 95%;
+}
+
+.footer {
+  width: 100%;
+  height: 10vh;
+  margin-top: 10px;
+}
