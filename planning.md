@@ -23,3 +23,13 @@ In order to execute this project well, we expect you'll need to continue researc
 
 ![Wireframe: mobile view](img/1-desktop-lg-view.jpg?raw=true)
 ![Wireframe: mobile view](img/2-mobile-lg-view.jpg?raw=true)
+![Wireframe: mobile view](img/2-A-navbar.jpg?raw=true)
+![Wireframe: mobile view](img/3-A-masthead1.jpg?raw=true)
+![Wireframe: mobile view](img/1-desktop-lg-view.jpg?raw=true)
+![Wireframe: mobile view](img/3-B-masthead.jpg?raw=true)
+![Wireframe: mobile view](img/3-sidebar-component.jpg?raw=true)
+![Wireframe: mobile view](img/4-sidebar.jpg?raw=true)
+![Wireframe: mobile view](img/5-container-component.jpg?raw=true)
+![Wireframe: mobile view](img/6-container-component.jpg?raw=true)
+![Wireframe: mobile view](img/7-card-component.jpg?raw=true)
+![Wireframe: mobile view](img/8-container-2.jpg?raw=true)
