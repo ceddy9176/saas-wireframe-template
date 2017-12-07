@@ -20,6 +20,7 @@
 
 .navbar-mobile {
   max-height: 50px;
+  padding: 2%;
 }
 .navbar-mobile button {
   float: right;
